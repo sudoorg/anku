@@ -842,6 +842,7 @@ article.post-page .fea-img-container {
 	width: 100%;
 	text-align: left;
 	overflow: hidden;
+	height: 100%;
 }
 
 .footer-widget-area-inner,
